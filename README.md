@@ -235,18 +235,28 @@ Q5. Write a program in C to merge two files and write it in a new file.
 LAB-8: Write Menu Driven Program
 
 Q1. Design, Develop and Implement a menu driven Program in C for the following array operation.
+
    Creating an array of N Integer Elements
+  
    Display of array Elements with Suitable Headings
+  
    Inserting an Element (ELEM) at a given valid Position (POS)
+  
    Deleting an Element at a given valid Position (POS)
+  
    Exit.
+  
     Support the program with functions for each of the above operations.
 
 Q2. Write a menu-driven program to perform following Matrix operations (2-D array implementation): 
    Sum 
+  
    Difference
+  
    Product 
+  
    Transpose
+  
  
  LAB-9: Write Linked List Programs
  
